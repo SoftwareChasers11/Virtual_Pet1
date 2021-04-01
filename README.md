@@ -1,2 +1,1 @@
-# Virtual-Pet-1
-c34 project
+https://softwarechasers11.github.io/Virtual_Pet1/
